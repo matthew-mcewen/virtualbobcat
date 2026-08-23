@@ -1,0 +1,48 @@
+{
+  "pilots": [
+    {
+      "cid": 900001,
+      "callsign": "AIC101",
+      "latitude": 28.568611,
+      "longitude": 77.112222,
+      "altitude": 778,
+      "groundspeed": 0,
+      "heading": 280,
+      "last_updated": "2026-08-23T00:00:00Z",
+      "flight_plan": {
+        "flight_rules": "I",
+        "aircraft": "B738/M",
+        "departure": "VIDP",
+        "arrival": "OIII",
+        "route": "DOSHI M875 TAPIS L509 LAJAK ASLUM",
+        "altitude": "35000",
+        "cruise_tas": "420",
+        "remarks": "PBN/A1B2C1 DOF/260823 REG/VTABC EET/LAJAK0130 RMK/TCAS",
+        "revision_id": 1,
+        "deptime": "0000"
+      }
+    },
+    {
+      "cid": 900002,
+      "callsign": "CCA202",
+      "latitude": 34.35,
+      "longitude": 69.55,
+      "altitude": 36000,
+      "groundspeed": 460,
+      "heading": 280,
+      "last_updated": "2026-08-23T00:00:00Z",
+      "flight_plan": {
+        "flight_rules": "I",
+        "aircraft": "A332/M",
+        "departure": "ZUUU",
+        "arrival": "OIII",
+        "route": "DOSHI M875 TAPIS L509 LAJAK ASLUM",
+        "altitude": "35000",
+        "cruise_tas": "420",
+        "remarks": "PBN/A1B2C1 DOF/260823 REG/BXYZA EET/LAJAK0055 RMK/TCAS",
+        "revision_id": 1,
+        "deptime": "2300"
+      }
+    }
+  ]
+}

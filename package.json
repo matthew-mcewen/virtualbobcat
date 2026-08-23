@@ -1,0 +1,17 @@
+{
+  "name": "virtualbobcat",
+  "version": "0.1.0",
+  "description": "VATSIM-based simulation of the BOBCAT metering system for OAKB (Kabul FIR) westbound traffic",
+  "private": true,
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
